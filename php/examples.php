@@ -1,4 +1,15 @@
 <?
+/**
+* File: examples.php
+* Author: Marcus Ripkens - Stinkesocke - Game-Experts.de
+* Contact: <rm@game-experts.de>
+*
+* OHNE JEDE GEWAEHRLEISTUNG
+*
+* Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
+* Programm erhalten haben. Wenn nicht, siehe <http://www.gnu.org/licenses/>.
+**/
+
 define('APIPath','/pfad/zu/easyAPI.php'); // Das ist der absolute Pfad zum API Script
 define('APIUrl','http://easywi.meinedomain.de/api.php'); // Das ist die URL der Easy Wi API
 define('APIUser','Username'); // Das ist der Username der Easy Wi API

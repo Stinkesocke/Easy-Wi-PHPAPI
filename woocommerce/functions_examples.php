@@ -1,11 +1,22 @@
 <?
-#	Dieser Code kann in der functions.php Deines Wordpress Templates verwendet werden
-#	Die meisten Funktionen funktionieren nur mit dem Woocommerce Subscriptions Plugin
-#	Ohne Woocommerce Subscriptions Plugin gehen nur die Basisfunktionen
-#	- createUser
-#	- deleteUser
-#	- changeUserEmail
-#	- order_status_changed
+/**
+* File: functions_examples.php
+* Author: Marcus Ripkens - Stinkesocke - Game-Experts.de
+* Contact: <rm@game-experts.de>
+*
+* OHNE JEDE GEWAEHRLEISTUNG
+*
+* Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
+* Programm erhalten haben. Wenn nicht, siehe <http://www.gnu.org/licenses/>.
+*
+*	Dieser Code kann in der functions.php Deines Wordpress Templates verwendet werden
+*	Die meisten Funktionen funktionieren nur mit dem Woocommerce Subscriptions Plugin
+*	Ohne Woocommerce Subscriptions Plugin gehen nur die Basisfunktionen
+*	- createUser
+*	- deleteUser
+*	- changeUserEmail
+*	- order_status_changed
+**/
 
 #	Grundlegende Variablen Definieren:
 
